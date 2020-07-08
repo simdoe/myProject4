@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(252, 252, 126);
+}
+menu{
+    background-color: blue;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li a{
+    padding: 15px 16px;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+}
+li a:hover{
+    background-color: red;
+}
